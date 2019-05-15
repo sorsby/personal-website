@@ -39,7 +39,7 @@ cd personal-website
 ```
 bundle exec jekyll serve
 ```
-5. Now browse to [http://localhost:4000](http://localhost:4000)
+5. Now browse to [https://localhost:4000](https://localhost:4000)
 
 ### Publish
 
@@ -81,7 +81,7 @@ Your website comes pre-configured with three topics (e.g. "Web design" and "Sass
 To **add a page** to your website (e.g. detailed resume):
 
 1. Create a new `.html` or `.md` file at the root of your repository.
-2. Give it a filename that you want to be used in the page's URL (e.g. `http://yoursite.dev/filename`).
+2. Give it a filename that you want to be used in the page's URL (e.g. `https://yoursite.dev/filename`).
 3. At the start of your file, include the following [front matter](https://jekyllrb.com/docs/front-matter/):
 
 ```
